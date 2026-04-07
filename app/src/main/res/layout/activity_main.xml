@@ -27,5 +27,12 @@
         android:layout_height="wrap_content"
         android:text="Componente 2: Mi Botón"
         android:layout_marginTop="20dp"/>
+    <!-- COMPONENTE 3: EditText -->
+    <EditText
+        android:id="@+id/editTextComponente3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Componente 3: Escribe aquí"
+        android:layout_marginTop="20dp"/>
 
 </LinearLayout>
