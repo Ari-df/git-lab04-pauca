@@ -20,5 +20,12 @@
         android:text="Componente 1: Mi TextView"
         android:textSize="18sp"
         android:layout_marginTop="20dp"/>
+    <!-- COMPONENTE 2: Button -->
+    <Button
+        android:id="@+id/buttonComponente2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Componente 2: Mi Botón"
+        android:layout_marginTop="20dp"/>
 
 </LinearLayout>
