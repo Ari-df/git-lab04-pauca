@@ -8,6 +8,8 @@ import androidx.core.view.WindowInsetsCompat
 
 //Comentario de Diego
 
+//Comentario de Ariana
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
