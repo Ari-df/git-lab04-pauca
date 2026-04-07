@@ -32,7 +32,10 @@
         android:id="@+id/editTextComponente3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Componente 3: Escribe aquí"
+        android:hint="📝 Tercer componente mejorado - Escribe tu película favorita"
+        android:background="@android:drawable/editbox_background"
+        android:padding="12dp"
+        android:textSize="16sp"
         android:layout_marginTop="20dp"/>
 
 </LinearLayout>
